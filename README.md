@@ -13,4 +13,8 @@ This project features basic things for an iOS Development, such as:
 
 – ***Lottie Animations***
 
+# Example
+
+![](https://github.com/llieusedie/Clima/blob/main/6klikz.gif)
+
 
